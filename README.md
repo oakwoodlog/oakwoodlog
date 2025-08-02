@@ -9,4 +9,5 @@
 <a href="https://www.linkedin.com/in/caleb-bonasera-258b07299/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0a66c2"></a>
 <a href="https://discordapp.com/users/498184475729985557"><img alt="Static Badge" src="https://img.shields.io/badge/Discord-7289da"></a>
 <a href="https://www.instagram.com/oakwoodlog/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-DD2A7B"></a>
+<a href="https://steamcommunity.com/profiles/76561198332207428/"><img alt="Static Badge" src="https://img.shields.io/badge/Steam-%232a475e"></a>
 </div>
